@@ -1,0 +1,26 @@
+{
+  "name": "paquete-estadistica-cf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakz001/paquete-estadistica-cf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vakz001/paquete-estadistica-cf/issues"
+  },
+  "homepage": "https://github.com/vakz001/paquete-estadistica-cf#readme",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
